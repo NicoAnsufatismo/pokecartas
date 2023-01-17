@@ -1,1 +1,163 @@
-/* Aquí va el CSS */
+#Pokemon1{
+    background-color:rgb(24, 149, 36);
+    width:5px;
+    padding-right:250px;
+    margin-left:5px;
+    z-index: 300;
+    float:left;
+    border-radius:10px;
+    border:10px solid rgb(15, 125, 24);
+    background: radial-gradient(circle, rgba(24,149,36,1) 0%, rgba(24,149,99,1) 100%);
+}
+#Pokemon2{
+    background-color:rgb(199, 53, 23);
+    width:5px;
+    height:470px;
+    padding-right:250px;
+    margin-left:5px;
+    z-index: 300;
+    float:left;
+    border-radius:10px;
+    border:10px solid rgb(204, 39, 18);
+    background: radial-gradient(circle, rgb(199, 53, 23) 0%, rgb(251, 99, 57) 100%);
+}
+#Pokemon3{
+    background-color:rgb(26, 131, 180);
+    width:5px;
+    padding-right:250px;
+    margin-left:5px;
+    z-index: 300;
+    float:left;
+    border-radius:10px;
+    border:10px solid rgb(24, 95, 123);
+    background: radial-gradient(circle, rgba(26,131,180,1) 0%, rgb(0, 111, 175) 100%);
+}
+#Pokemon4{
+    background-color:rgb(234, 255, 0);
+    width:5px;
+    padding-right:250px;
+    margin-left:5px;
+    z-index: 300;
+    float:left;
+    border-radius:10px;
+    border:10px solid rgb(255, 251, 0);
+    background: radial-gradient(circle, rgba(234,255,0,1) 0%, rgb(255, 157, 0) 100%);
+}
+#cabecera{
+    font-size:large;
+}
+.nombre{
+    padding-left:30px;
+    font-size:20px
+}
+.hp{
+    padding-left:160px;
+    font-size:medium;
+    width: 100px;
+    right:50px
+}
+.hp2{
+    padding-left:180px;
+    font-size:medium;
+    width: 100px;
+    right:50px
+}
+.hp3{
+    padding-left:180px;
+    padding-right:100px;
+    font-size:medium;
+    width: 100px;
+    right: 70px
+}
+.hp4{
+    padding-left:180px;
+    padding-right:100px;
+    font-size:medium;
+    width: 100px;
+    right:70px
+}
+#imagen{
+    padding-left:10px;
+    border-radius:10px
+}
+#imagen2{
+    padding-left:10px;
+    border-radius:10px
+}
+#imagen3{
+    padding-left:10px;
+    border-radius:10px
+}
+#imagen4{
+    padding-left:10px;
+    border-radius:10px
+}
+.bulbasaur{
+    position:absolute;
+    top:150px;
+    left:20px;
+    z-index: 300;
+}
+.charmander{
+    position:absolute;
+    top:150px;
+    left:300px;
+    z-index: 300;
+}
+.squirtle{
+    position:absolute;
+    top:150px;
+    left:550px;
+    z-index: 300;
+}
+.pikachu{
+    position:absolute;
+    top:150px;
+    left:850px;
+    z-index: 300;
+}
+.fondo{
+    top:60px;
+    width: 230px;
+    z-index:-300
+}
+.fondo2{
+    top:60px;
+    width: 230px;
+    z-index:-300
+}
+.fondo3{
+    top:60px;
+    width: 230px;
+    z-index:-300
+}
+.fondo4{
+    top:60px;
+    width: 230px;
+    z-index:-300
+}
+#habilidades{
+    padding-right:30px;
+    padding-left:40px;
+    width:200px;
+    font-size:small
+}
+#habilidades2{
+    padding-right:30px;
+    padding-left:40px;
+    width:200px;
+    font-size:small
+}
+#habilidades3{
+    padding-right:30px;
+    padding-left:40px;
+    width:200px;
+    font-size:small
+}
+#habilidades4{
+    padding-right:30px;
+    padding-left:40px;
+    width:200px;
+    font-size:small
+}
+
